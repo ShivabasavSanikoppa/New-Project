@@ -1,0 +1,35 @@
+div{
+    height:200px;
+    width:300px;
+    background-color: pink;
+    border-width: 5px;
+    border-style: solid;
+    border-color:yellow;
+    border-left-color: hotpink;
+    border-left-style: dashed;
+    border-radius: 10px;
+    padding-left:15px;
+    padding-top:15px;
+    padding-right: 15px;
+    padding-bottom:15px;
+    margin:25px 30px 40px;
+     display:inline-block;
+ 
+
+}
+
+h1{
+
+    width:50%;
+    border: 10px solid blue;
+    margin:0;
+}
+
+button{
+    color:blue;
+    background-color: blueviolet;
+   border: 2px solid black; 
+    border-radius:10px ;
+    padding-left:25px;
+    padding-right:25px;
+}
